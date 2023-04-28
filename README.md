@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Daniel
 - 👀 I’m interested in ... Ethereum, Solidity, Web3, ReactJS, Redux, NextJS, NodeJS, BlockChain technology, SQL, JAVA, Gaming, MotoGP, Race Motorcycles 
-- 🌱 I’m currently learning ... how to audit my Solidity smart contracts using slinther and how to work with Redux && develop blockchains in python.
-- 💞️ I’m looking to collaborate on ... building new technology
+- 🌱 Senior Software Developer at Gofore SLI Spain & Blockchain Consultant at The Risk Protocol
 - 📫 How to reach me ... https://danielburlacu.behindmaskssociety.com
 
 <!---
