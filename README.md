@@ -4,7 +4,7 @@
 
 🌱 With his extensive background and dedication, Daniel is a 🧑‍💼 Senior Software Developer at Gofore SLI Spain and has been an 🔗 Blockchain Consultant at The Risk Protocol.
 
-Overall, Daniel is a driven and dynamic individual who is passionate about the tech industry and living life to the fullest. Want to connect with him? Reach out to him via his preferred contact method. 📫 daniel.burlacu.at.behindmaskssociety.com
+Overall, Daniel is a driven and dynamic individual who is passionate about the tech industry and living life to the fullest. Want to connect with him? Reach out to him via his preferred contact method. 📫 daniel.burlacu1983.at.yahoo.se
 
 <!---
 daniel-burlacu/daniel-burlacu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
