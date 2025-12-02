@@ -11,6 +11,6 @@ daniel-burlacu/daniel-burlacu is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 Founder - ANIVERA 
-<img width="1024" height="1024" alt="LogoMod" src="https://github.com/user-attachments/assets/abf1a346-0a50-4e22-a3ad-b12f5325622e" />
+<img width="200" height="200" alt="LogoMod" src="https://github.com/user-attachments/assets/abf1a346-0a50-4e22-a3ad-b12f5325622e" />
 
 
